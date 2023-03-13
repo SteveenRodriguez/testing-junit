@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦š÷ıÿÿÿÿ8‹ñâí0
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8Ø‘ñâí0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ƒ¿ùÿÿÿÿ8é‘ñâí0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ˆ›íÿÿÿÿÿ8ô‘ñâí0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ï˜šÿüÿÿÿÿ8ö‘ñâí0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(·ò—8ö‘ñâí0
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(üÂÙÆ8ú‘ñâí0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(’¬‘ºøÿÿÿÿ8ü‘ñâí0
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(¦í× şÿÿÿÿ8ı‘ñâí0
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ŞÅõ®ıÿÿÿÿ8†’ñâí0
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ºàÕûÿÿÿÿ8‡’ñâí0
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(·ò—8ˆ’ñâí0
